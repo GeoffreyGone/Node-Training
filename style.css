@@ -1,0 +1,10 @@
+body{
+    /*This is how to set background color*/
+/* background-color: #ffff00; */
+background-image: url(./pics/0-148EMFwFewKS2eYD.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+color: red;
+
+}
